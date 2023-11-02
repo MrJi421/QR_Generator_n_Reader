@@ -1,1 +1,3 @@
 # QR_Generator_n_Reader
+
+the windows app is used to generate and scan the text from qrcode images...
